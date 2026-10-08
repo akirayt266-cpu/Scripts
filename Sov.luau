@@ -9,15 +9,15 @@ assert(type(v) == "table" and type(v.CreateWindow) == "function", "WindUI failed
 
 local v2
 v2 = v:CreateWindow({
-	Title = "Ken Hub [Ride a Pet]",
-	Author = "By: Ken Hub Official",
-	Folder = "KenHubRideAPet",
-	Icon = "moon",
+	Title = "Sovereign Hub [Ride a Pet]",
+	Author = "By: Kaizerr,luffy and devs",
+	Folder = "SovereignHubRideAPet",
+	Icon = "Sun",
 	Theme = "Dark",
 	KeySystem = {
-		Key = { "KENHUBOFFICIAL" },
-		Note = "Join the Ken Hub Discord to get the key.",
-		URL = "https://discord.gg/9CtakzaZwq",
+		Key = { "Sovereign" },
+		Note = "Join the Sovereign Hub Discord to get the key.",
+		URL = "https://discord.gg/uUGJbNNJSg",
 		SaveKey = true,
 	},
 })
